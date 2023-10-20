@@ -1,1 +1,1 @@
-# dx-ping-pong-sc
+# ping-pong-smart-contract
